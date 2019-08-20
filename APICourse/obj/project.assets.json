@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\APICourse\\APICourse\\APICourse.csproj",
+      "projectUniqueName": "C:\\Projetos\\Matheuspr96.APICourse\\APICourse\\APICourse.csproj",
       "projectName": "APICourse",
-      "projectPath": "C:\\Projetos\\APICourse\\APICourse\\APICourse.csproj",
+      "projectPath": "C:\\Projetos\\Matheuspr96.APICourse\\APICourse\\APICourse.csproj",
       "packagesPath": "C:\\Users\\mreis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\APICourse\\APICourse\\obj\\",
+      "outputPath": "C:\\Projetos\\Matheuspr96.APICourse\\APICourse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
